@@ -12,7 +12,7 @@ import pandas as pd
 def main():
     html_temp = """
     <div style="background-color:Lightblue;padding:20px">
-    <h2 style="color:black";text-align:center> Health Insurance Cost Prediciction using ML</h2>
+    <h2 style="color:black";text-align:center> Health Insurance Cost Prediction using Machine Learning</h2>
     </div>
     
     """
